@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <title> landing page for BIT one </title>
+    </head>
+    <body> 
+        <div class="hero">
+
+            <nav>
+        <ul>
+                <li>  <a href="#">Home</a> </li>
+                <li>  <a href="#">servies</a> </li>
+            </nav><li>  <a href="#">about us </a> </li>
+            <li>  <a href="#"> location</a> </li>
+        </ul>
+    </nav>
+
+             
+        </div>
+        
+    </body>
+</html>

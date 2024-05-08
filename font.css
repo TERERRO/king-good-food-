@@ -1,0 +1,7 @@
+.content-container {
+    background-image: url("image.jpg");
+    background-size: cover; /* ensures image covers the container */
+    background-position: center; /* centers the image within the container */
+    color: white; /* sets text color to white for better readability */
+    padding: 20px; /* adds padding for spacing around the text */
+  }
